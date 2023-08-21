@@ -1,0 +1,26 @@
+{
+  "name": "@yousafzai66/customheader",
+  "version": "1.0.0",
+  "description": "Custom header for react-native applications to reduce the hassle of creating a header for each screen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yousafzai66",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.72.4",
+    "react-native-vector-icons": "^10.0.0",
+    "typescript": "^5.1.6"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.20",
+    "@types/react-native": "^0.72.2",
+    "@types/react-native-vector-icons": "^6.4.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MuhammadMaaz66/yousafzai66-customheader.git"
+  }
+}
